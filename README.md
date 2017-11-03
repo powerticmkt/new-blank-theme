@@ -1,2 +1,3 @@
-# almost-blank-theme
-Almost Blank theme for Mautic with footer
+# new-blank-theme
+
+Tema sem nenhum layout para ser utilizado no Mautic
